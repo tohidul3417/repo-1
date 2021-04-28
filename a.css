@@ -1,0 +1,48 @@
+body {
+    margin: 15px;
+    background-color: wheat;
+}
+
+#fh1 {
+    color: #FFFAFB;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 4em;
+    background-color: teal;
+    text-align: center;
+}
+
+#fspan {
+    color: navy;
+    font-size: .5em;
+}
+
+#p1 {
+    background-color: black;
+    color: wheat;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px;
+}
+
+#fpfol {
+    background-color: white;
+    color: black;
+    border: gold solid;
+    border-left: 30px;
+    padding-bottom: 20px;
+    border-radius: 30px;
+
+}
+
+h3 {
+    color: darkgreen;
+    font-size: 1.5em;
+    font-family: cursive;
+}
+
+li {
+    color: dimgrey;
+}
+
+img {
+    img
+}
