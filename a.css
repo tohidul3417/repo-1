@@ -9,6 +9,7 @@ body {
     font-size: 4em;
     background-color: teal;
     text-align: center;
+    border: black solid;
 }
 
 #fspan {
@@ -24,8 +25,8 @@ body {
 }
 
 #fpfol {
-    background-color: white;
-    color: black;
+    background-color: wheat;
+    color: white;
     border: gold solid;
     border-left: 30px;
     padding-bottom: 20px;
@@ -34,15 +35,47 @@ body {
 }
 
 h3 {
-    color: darkgreen;
+    color: wheat;
     font-size: 1.5em;
     font-family: cursive;
 }
 
-li {
-    color: dimgrey;
+
+
+#fpfo2 {
+    background-color: whitesmoke;
+    color: white;
+
+}
+button {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    border: 5px darkgray solid;
+    padding: 40px, 55px;
+}
+#fpfo2 a {
+    color: white
+}
+button a {
+    color: white
 }
 
-img {
-    img
+#cricketh3 {
+    color: white;
+}
+
+#fpfol li a {
+    color: white;
+}
+#spanh3 {
+    color: black;
+    text-align: center;
+}
+
+#spanbd {
+    background-color: white;
+    color: black;
+    font-family: cursive;
 }
