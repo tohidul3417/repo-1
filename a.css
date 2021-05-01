@@ -79,3 +79,13 @@ button a {
     color: black;
     font-family: cursive;
 }
+
+a:link {
+    color: black;
+    font-style: normal;
+}
+a:visited {
+    color: lightseagreen;
+}
+
+
